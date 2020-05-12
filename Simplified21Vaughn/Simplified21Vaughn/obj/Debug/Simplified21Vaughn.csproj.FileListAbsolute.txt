@@ -1,0 +1,9 @@
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\bin\Debug\Simplified21Vaughn.exe.config
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\bin\Debug\Simplified21Vaughn.exe
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\bin\Debug\Simplified21Vaughn.pdb
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.csprojAssemblyReference.cache
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.Properties.Resources.resources
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.frmSimplified21.resources
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.csproj.GenerateResource.cache
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.exe
+C:\Users\vaugh\OneDrive\Desktop\visual studio\Assignments\Simplified21Vaughn\Simplified21Vaughn\obj\Debug\Simplified21Vaughn.pdb
